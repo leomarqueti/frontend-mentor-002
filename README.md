@@ -1,5 +1,5 @@
 # Frontend Mentor - NFT preview card component
-
+https://leomarqueti.github.io/frontend-mentor-002/
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
